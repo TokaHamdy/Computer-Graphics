@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684862015 source:d:\untitled15\graphics_project\main.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"math.h"
+
